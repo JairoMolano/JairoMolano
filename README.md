@@ -1,7 +1,12 @@
 <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif" style="width:100%;">
 
 # 💫 Hi, I’m Jairo Molano
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ratione earum voluptatum modi eos reprehenderit id magnam debitis alias, labore, placeat beatae optio. Perferendis quos quae et sapiente, corrupti est.
+🍀 I’m currently working on developing web and mobile applications as part of my software engineering studies.<br>
+🤝 I’m looking to collaborate on innovative projects that challenge my skills and push me to learn more.<br>
+🤞 I’m looking for help with learning advanced development techniques and best practices.<br>
+🌿 I’m currently learning about modern web technologies, mobile app frameworks, and software architecture. <br>
+🗨️ Ask me about my experiences with web and mobile development, or any questions you have about technology and software engineering. <br>
+⚡ Fun fact: I’m passionate about technology and always eager to learn more to stay up-to-date with the latest trends and innovations.
 
 # 💻 Programming languages ​​& tools 
 <div align="center">
@@ -22,7 +27,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ratione earum volu
 </div>
 
 # 🏆 Badges
-<div align="center">
+<div align="center" style="border-radius:10px;">
   <a href="https://www.credly.com/badges/975aa35a-d053-446c-951d-9d645e73cace/public_url" target="_blank">
     <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="Badge" style="width:15%;">
   </a>
