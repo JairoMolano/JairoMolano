@@ -29,7 +29,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ratione earum volu
 </div>
 
 # 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false">
-  <img src="https://github-readme-stats.vercel.app/api?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false" style="height: 200px;">
 </div>
