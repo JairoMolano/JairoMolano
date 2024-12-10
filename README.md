@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/01/1b/78/011b787a19e825d5b4966962f0e3188a.jpg" style="width:100%;">
+<img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif" style="width:100%;">
 
 # 💫 Hi, I’m Jairo Molano
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ratione earum voluptatum modi eos reprehenderit id magnam debitis alias, labore, placeat beatae optio. Perferendis quos quae et sapiente, corrupti est.
@@ -30,6 +30,6 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo ratione earum volu
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false">
   <img src="https://github-readme-stats.vercel.app/api?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false">
 </div>
