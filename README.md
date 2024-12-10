@@ -11,7 +11,7 @@
 # 💻 Programming languages ​​& tools 
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/256/3291/3291670.png" alt="HTML5" style="width:6%;">
-  <img src="https://i.pinimg.com/736x/57/6f/9c/576f9c9fd6655724d7106f13100ef76e.jpg" alt="CSS3" style="width:6%;">
+  <img src="https://i.pinimg.com/736x/27/b3/d9/27b3d95d5bab16a5a1d45b77a2ff0594.jpg" alt="CSS3" style="width:6%;">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png?f=webp&w=256" alt="JavaScript" style="width:6%;">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-oreja-226077.png?f=webp&w=256" alt="Bootstrap" style="width:6%;">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-angular-2752246-2285063.png?f=webp&w=256" alt="Angular" style="width:6%;">
@@ -38,5 +38,5 @@
 # 📊 GitHub Stats
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false&card_width=560" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMolano&theme=react&hide_border=false&include_all_commits=false&count_private=false&card_width=400" style="height: 200px;">
 </div>
