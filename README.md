@@ -10,22 +10,22 @@
 
 ## 💻 Programming languages ​​& tools 
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/256/3291/3291670.png" alt="HTML5" style="width:6%;">
-  <img src="https://i.ibb.co/Yk38bWw/Icons-css.png" alt="CSS3" style="width:6%;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png?f=webp&w=256" alt="JavaScript" style="width:6%;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-oreja-226077.png?f=webp&w=256" alt="Bootstrap" style="width:6%;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-angular-2752246-2285063.png?f=webp&w=256" alt="Angular" style="width:6%;">
-  <img src="https://i.ibb.co/FYN637W/Icons-node-JS.png" alt="NodeJS" style="width:6%;">
-  <img src="https://cdn-icons-png.flaticon.com/256/3291/3291669.png" alt="Java" style="width:6%;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-piton-2752092-2284909.png?f=webp&w=256" alt="Python" style="width:6%;">
-  <img src="https://i.ibb.co/ZdRpYnL/Icons-postgres.png" alt="Postgres" style="width:6%;">
-  <img src="https://i.ibb.co/JRYNNs8/Icons-mysql.png" alt="MySQL" style="width:6%;">
-  <img src="https://i.ibb.co/TRJ2CN0/Icons-mongodb.png" alt="MongoDB" style="width:6%;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-git-2752184-2285001.png?f=webp&w=256" alt="Git" style="width:6%;">
-  <img src="https://cdn-icons-png.flaticon.com/256/3291/3291667.png" alt="Github" style="width:6%;">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-rebaja-2752127-2284944.png?f=webp&w=256" alt="Markdown" style="width:6%;">
-  <img src="https://i.ibb.co/Cvz74d2/Icons-figma.png" alt="Figma" style="width:6%;">
-  <img src="https://i.ibb.co/fCZ0mzz/Icons-postman.png" alt="Postman" style="width:6%;">
+  <img src="https://cdn-icons-png.flaticon.com/256/3291/3291670.png" alt="HTML5" style="width:52px;">
+  <img src="https://i.ibb.co/Yk38bWw/Icons-css.png" alt="CSS3" style="width:52px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png?f=webp&w=256" alt="JavaScript" style="width:52px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-oreja-226077.png?f=webp&w=256" alt="Bootstrap" style="width:52px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-angular-2752246-2285063.png?f=webp&w=256" alt="Angular" style="width:52px;">
+  <img src="https://i.ibb.co/FYN637W/Icons-node-JS.png" alt="NodeJS" style="width:52px;">
+  <img src="https://cdn-icons-png.flaticon.com/256/3291/3291669.png" alt="Java" style="width:52px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-piton-2752092-2284909.png?f=webp&w=256" alt="Python" style="width:52px;">
+  <img src="https://i.ibb.co/ZdRpYnL/Icons-postgres.png" alt="Postgres" style="width:52px;">
+  <img src="https://i.ibb.co/JRYNNs8/Icons-mysql.png" alt="MySQL" style="width:52px;">
+  <img src="https://i.ibb.co/TRJ2CN0/Icons-mongodb.png" alt="MongoDB" style="width:52px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-git-2752184-2285001.png?f=webp&w=256" alt="Git" style="width:52px;">
+  <img src="https://cdn-icons-png.flaticon.com/256/3291/3291667.png" alt="Github" style="width:52px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-rebaja-2752127-2284944.png?f=webp&w=256" alt="Markdown" style="width:52px;">
+  <img src="https://i.ibb.co/Cvz74d2/Icons-figma.png" alt="Figma" style="width:52px;">
+  <img src="https://i.ibb.co/fCZ0mzz/Icons-postman.png" alt="Postman" style="width:52px;">
 </div>
 
 ## 🏆 Badges
